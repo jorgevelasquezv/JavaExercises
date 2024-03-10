@@ -1,0 +1,29 @@
+# Ignore VS Code configuration files
+.vscode/
+
+# Ignore Java build files
+target/
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore Java Virtual Machine files
+*.hprof
+hs_err_pid*
+
+# Ignore Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Java package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Ignore Maven configuration files
+log/
+target/
